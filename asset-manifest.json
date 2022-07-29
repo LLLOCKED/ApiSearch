@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ApiSearch/static/css/main.31573b67.css",
+    "main.js": "/ApiSearch/static/js/main.90b5c64f.js",
+    "static/media/search.svg": "/ApiSearch/static/media/search.157f2751898fbf6cf71181b8ebb4defb.svg",
+    "index.html": "/ApiSearch/index.html",
+    "main.31573b67.css.map": "/ApiSearch/static/css/main.31573b67.css.map",
+    "main.90b5c64f.js.map": "/ApiSearch/static/js/main.90b5c64f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31573b67.css",
+    "static/js/main.90b5c64f.js"
+  ]
+}
